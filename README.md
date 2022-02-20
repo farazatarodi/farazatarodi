@@ -1,4 +1,6 @@
-### Hello world!
+### 👋🏼 Hello world!
+
+Software engineer and electromechanical engineer based in Ghent, Belgium. I like to make cool stuff.
 
 ### 📊 My stats
 <div>
