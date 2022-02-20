@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello world!
 
-### My stats 📊
+### 📊 My stats
 <div>
   <a href="https://farazatarodi.com">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff" />
@@ -10,5 +10,8 @@
   </a>
 </div>
 
-### Visitor counter 🎰
+### 🎰 Visitor counter
 <img src="https://profile-counter.glitch.me/farazatarodi/count.svg" />
+
+### Game of life
+[![GitHub Game of Life](https://github4life.herokuapp.com/farazatarodi.gif?z=6)](https://github4life.herokuapp.com/ethomson)
