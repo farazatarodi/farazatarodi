@@ -1,6 +1,7 @@
 ### 👋🏼 Hello world!
 
-Software engineer and electromechanical engineer based in Ghent, Belgium. I like to make cool stuff.
+Software engineer and electromechanical engineer based in Ghent, Belgium. I like to make cool stuff!
+Visit my [portfolio](https://farazatarodi.com).
 
 ### 📊 My stats
 <div>
