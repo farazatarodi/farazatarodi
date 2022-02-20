@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**farazatarodi/farazatarodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff)](https://farazatarodi.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff&hide=makefile,cmake&layout=compact)](https://www.farazatarodi.com/#about)
 
@@ -21,5 +7,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff" />
 </a>
 <a href="https://www.farazatarodi.com/#about">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff&hide=makefile,cmake&layout=compact" />
+  <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff&hide=makefile,cmake&layout=compact" />
 </a>
