@@ -9,3 +9,7 @@
 <a href="https://www.farazatarodi.com/#about">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff&hide=makefile,cmake&layout=compact" />
 </a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/farazatarodi/count.svg" />
+</p>
