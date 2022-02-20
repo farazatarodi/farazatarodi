@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff)](https://farazatarodi.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff&hide=makefile,cmake)](https://www.farazatarodi.com/#about)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazatarodi&show_icons=true&bg_color=141414&title_color=0fc&icon_color=ff5454&text_color=fff&hide=makefile,cmakelayout=compact)](https://www.farazatarodi.com/#about)
