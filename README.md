@@ -12,6 +12,3 @@
 
 ### 🎰 Visitor counter
 <img src="https://profile-counter.glitch.me/farazatarodi/count.svg" />
-
-### 🎲 Game of life
-[![GitHub Game of Life](https://github4life.herokuapp.com/farazatarodi.gif?z=6)](https://github4life.herokuapp.com/ethomson)
