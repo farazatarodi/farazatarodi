@@ -12,4 +12,4 @@
 
 ### 🎰 Visitor counter
 <img src="https://profile-counter.glitch.me/farazatarodi/count.svg" />
-<iframe src="farazatarodi.com"/>
+<iframe src="https://farazatarodi.com"></iframe>
